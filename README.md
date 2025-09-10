@@ -44,7 +44,7 @@ This project is **still in development**. I'm working on improving chatbot respo
 
 - The app is designed for on-site restaurant ordering, not delivery.
 - Sensitive files like `google-services.json` have been excluded.
-- The chatbot backend (Flask + Python) is not part of this repo, but can be added later.
+
 
 ---
 
